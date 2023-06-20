@@ -19,6 +19,8 @@ The pretrained model for object detection
 
 How to run for file:
 <pre><code>python detect.py</code></pre>
+* From CMD Terminal for live detection
+* python detect.py --source 0
 
 
 # result
